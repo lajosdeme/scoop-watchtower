@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lajosdeme/watchtower/releases/download/v1.0.0/watchtower_Windows_x86_64.zip",
+            "bin": [
+                "watchtower.exe"
+            ],
+            "hash": "ac68998f3fa2056f03c64e2a3e64266f4758e5ddfed3c3b45fb0b2ab53f50b47"
+        }
+    },
+    "homepage": "https://github.com/lajosdeme/watchtower",
+    "license": "MIT",
+    "description": "A clean, minimal, terminal-based global intelligence dashboard."
+}
